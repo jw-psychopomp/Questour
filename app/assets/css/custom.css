@@ -1,0 +1,59 @@
+/* Add padding to top for fixed navbar : psychopomp */
+body {
+  padding-top: 70px;
+}
+
+video {
+  width: 100%    !important;
+  height: auto   !important;
+}
+
+.row {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/* Classes */
+.center-block {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/* Position Questour Logo : psychopomp */
+#questourLogo {
+  padding-top: 15%;
+}
+
+/* Position & size front login : psychopomp */
+.form-signin {
+  max-width: 330px;
+  padding: 15px;
+  margin: 0 auto;
+}
+
+.navbar-toggle {
+  float: left !important;
+  margin-left: 15px !important;
+}
+
+.navbar-brand {
+  float: right !important;
+  padding: 15px !important;
+}
+
+#footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  height: 60px;
+  background-color: #9E0700;
+  padding-top:9px;
+  padding-bottom:9px;
+}
+
+@media (min-width: 768px) {
+  .navbar-header {
+    float: none;
+  }
+}

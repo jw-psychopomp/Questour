@@ -1,0 +1,29 @@
+Technologies used
+
+RackSpace.com cloud servers
+
+Ubuntu 13.10 
+Apache 2.4.6 
+HTML 5
+CSS 3
+4Square API (In theory)
+Ruby 1.9.3
+Rails 3.2.13
+PostgreSQL 9.3
+Python 2.7.5
+Nova Agent 0.0.1.39
+MySQL  Ver 14.14
+Bootstrap v3.1.1
+Samba Version 3.6.18
+Adboe Creative Quite 6 and 4
+
+
+
+What's Next?
+
+Create an interface where the user can create their own scavenger hunt and set up their teams.
+
+or hire us to create scavenger hunts.
+
+
+
